@@ -1,0 +1,40 @@
+.
+{background-color: #F0F2F5;}
+
+body h1
+{font-family: 'Montserrat';
+font-weight: 700}
+
+body h4
+{font-family: 'Montserrat';
+font-weight: 400;
+font-size: 1.3rem}
+
+body h6
+{font-family: 'Montserrat';
+font-weight: 300}
+
+.container
+{text-transform: capitalize}
+
+body a
+{text-decoration: none;
+color: #1C1E21}
+
+body a:hover
+{color: #F58182}
+
+#project img
+{max-width: 100%;
+margin-bottom: 15px}
+
+#header
+{padding: 8em 0 6em 0}
+
+#networks a
+{margin-left: 10px;
+font-weight: 600}
+
+
+
+
